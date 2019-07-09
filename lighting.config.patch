@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/lighting/spreadPasses",
+    "value": 3
+  },
+  {
+    "op": "replace",
+    "path": "/lighting/spreadMaxAir",
+    "value": 32
+  },
+  {
+    "op": "replace",
+    "path": "/lighting/spreadMaxObstacle",
+    "value": 8
+  },
+  {
+    "op": "replace",
+    "path": "/lighting/pointMaxAir",
+    "value": 72
+  },
+  {
+    "op": "replace",
+    "path": "/lighting/pointMaxObstacle",
+    "value": 9
+  }
+]

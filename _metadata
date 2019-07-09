@@ -1,0 +1,10 @@
+{
+  "author" : "RexmecK",
+  "description" : "",
+  "friendlyName" : "Rexmeck Shader",
+  "name" : "rexmeckshader",
+  "priority" : 9999,
+  "requires" : [],
+  "includes" : [],
+  "version" : "1"
+}
